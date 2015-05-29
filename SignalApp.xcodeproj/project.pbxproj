@@ -13,6 +13,15 @@
 		EB66C96C1B0F2FA5005A1C1D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB66C96B1B0F2FA5005A1C1D /* Images.xcassets */; };
 		EB66C96F1B0F2FA5005A1C1D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EB66C96D1B0F2FA5005A1C1D /* LaunchScreen.xib */; };
 		EB66C97B1B0F2FA5005A1C1D /* SignalAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB66C97A1B0F2FA5005A1C1D /* SignalAppTests.swift */; };
+		EBABCC281B1839E900FCBCCE /* btn_blue_on.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC271B1839E900FCBCCE /* btn_blue_on.png */; };
+		EBABCC2E1B183A9800FCBCCE /* btn_blue_off.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC291B183A9800FCBCCE /* btn_blue_off.png */; };
+		EBABCC2F1B183A9800FCBCCE /* btn_red_off.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC2A1B183A9800FCBCCE /* btn_red_off.png */; };
+		EBABCC301B183A9800FCBCCE /* btn_red_on.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC2B1B183A9800FCBCCE /* btn_red_on.png */; };
+		EBABCC311B183A9800FCBCCE /* btn_yellow_off.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC2C1B183A9800FCBCCE /* btn_yellow_off.png */; };
+		EBABCC321B183A9800FCBCCE /* btn_yellow_on.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC2D1B183A9800FCBCCE /* btn_yellow_on.png */; };
+		EBABCC361B18509A00FCBCCE /* signal_blue.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC331B18509A00FCBCCE /* signal_blue.png */; };
+		EBABCC371B18509A00FCBCCE /* signal_red.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC341B18509A00FCBCCE /* signal_red.png */; };
+		EBABCC381B18509A00FCBCCE /* signal_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = EBABCC351B18509A00FCBCCE /* signal_yellow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,15 @@
 		EB66C9741B0F2FA5005A1C1D /* SignalAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SignalAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB66C9791B0F2FA5005A1C1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB66C97A1B0F2FA5005A1C1D /* SignalAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignalAppTests.swift; sourceTree = "<group>"; };
+		EBABCC271B1839E900FCBCCE /* btn_blue_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_blue_on.png; sourceTree = "<group>"; };
+		EBABCC291B183A9800FCBCCE /* btn_blue_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_blue_off.png; sourceTree = "<group>"; };
+		EBABCC2A1B183A9800FCBCCE /* btn_red_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_red_off.png; sourceTree = "<group>"; };
+		EBABCC2B1B183A9800FCBCCE /* btn_red_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_red_on.png; sourceTree = "<group>"; };
+		EBABCC2C1B183A9800FCBCCE /* btn_yellow_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_yellow_off.png; sourceTree = "<group>"; };
+		EBABCC2D1B183A9800FCBCCE /* btn_yellow_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_yellow_on.png; sourceTree = "<group>"; };
+		EBABCC331B18509A00FCBCCE /* signal_blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signal_blue.png; sourceTree = "<group>"; };
+		EBABCC341B18509A00FCBCCE /* signal_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signal_red.png; sourceTree = "<group>"; };
+		EBABCC351B18509A00FCBCCE /* signal_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signal_yellow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +95,15 @@
 		EB66C9611B0F2FA5005A1C1D /* SignalApp */ = {
 			isa = PBXGroup;
 			children = (
+				EBABCC331B18509A00FCBCCE /* signal_blue.png */,
+				EBABCC341B18509A00FCBCCE /* signal_red.png */,
+				EBABCC351B18509A00FCBCCE /* signal_yellow.png */,
+				EBABCC291B183A9800FCBCCE /* btn_blue_off.png */,
+				EBABCC2A1B183A9800FCBCCE /* btn_red_off.png */,
+				EBABCC2B1B183A9800FCBCCE /* btn_red_on.png */,
+				EBABCC2C1B183A9800FCBCCE /* btn_yellow_off.png */,
+				EBABCC2D1B183A9800FCBCCE /* btn_yellow_on.png */,
+				EBABCC271B1839E900FCBCCE /* btn_blue_on.png */,
 				EB66C9641B0F2FA5005A1C1D /* AppDelegate.swift */,
 				EB66C9661B0F2FA5005A1C1D /* ViewController.swift */,
 				EB66C9681B0F2FA5005A1C1D /* Main.storyboard */,
@@ -193,8 +220,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB66C96A1B0F2FA5005A1C1D /* Main.storyboard in Resources */,
+				EBABCC361B18509A00FCBCCE /* signal_blue.png in Resources */,
+				EBABCC281B1839E900FCBCCE /* btn_blue_on.png in Resources */,
 				EB66C96F1B0F2FA5005A1C1D /* LaunchScreen.xib in Resources */,
 				EB66C96C1B0F2FA5005A1C1D /* Images.xcassets in Resources */,
+				EBABCC381B18509A00FCBCCE /* signal_yellow.png in Resources */,
+				EBABCC371B18509A00FCBCCE /* signal_red.png in Resources */,
+				EBABCC301B183A9800FCBCCE /* btn_red_on.png in Resources */,
+				EBABCC321B183A9800FCBCCE /* btn_yellow_on.png in Resources */,
+				EBABCC2F1B183A9800FCBCCE /* btn_red_off.png in Resources */,
+				EBABCC311B183A9800FCBCCE /* btn_yellow_off.png in Resources */,
+				EBABCC2E1B183A9800FCBCCE /* btn_blue_off.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +447,7 @@
 				EB66C9801B0F2FA5005A1C1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EB66C9811B0F2FA5005A1C1D /* Build configuration list for PBXNativeTarget "SignalAppTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +456,7 @@
 				EB66C9831B0F2FA5005A1C1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
